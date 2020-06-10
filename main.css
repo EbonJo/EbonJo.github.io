@@ -3,14 +3,14 @@
 
 /* Set gray background color and 100% height */
 .sidenav {
-  background-color: green;
+  background-color: DarkSeaGreen;
   height: 100%;
 }
 
 /* Set black background color, white text and some padding */
 footer {
-  background-color: #555;
-  color: white;
+  background-color: #8FBC8F;
+  color: DarkSeaGreen;
   padding: 15px;
 }
 
@@ -21,4 +21,9 @@ footer {
     padding: 15px;
   }
   .row.content {height: auto;}
+}
+.project-img {
+  object-fit: cover;
+  width: 100%;
+  max-height: 150px;
 }
