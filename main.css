@@ -9,8 +9,8 @@
 
 /* Set black background color, white text and some padding */
 footer {
-  background-color: #8FBC8F;
-  color: DarkSeaGreen;
+  background-color: DarkSeaGreen;
+  color: White;
   padding: 15px;
 }
 
@@ -27,3 +27,6 @@ footer {
   width: 100%;
   max-height: 150px;
 }
+
+<br><br><br>
+<body style= "background: url(https://images.unsplash.com/photo-1530396333989-24c5b8f805dd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80) no-repeat ; background-size: 100% 100%">
